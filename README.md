@@ -14,6 +14,7 @@ In this unit, coders will create the classic game of tic tac toe in their browse
 - [ ] Fork this repository to your github account and clone to a new workspace
 - [ ] Add, commit, and push your changes
 - [ ] Make your site live on gh-pages
+- [ ] Save and submit your website using the link on the Agenda.
 
 ### JavaScript
 - [ ] Create a variable that keeps track of the current player and set it equal to either a string of "X" or "O"
@@ -26,7 +27,6 @@ In this unit, coders will create the classic game of tic tac toe in their browse
 
 #### Wrap
 - [ ] Push your changes!
-- [ ] Save and submit your website using the link on the Daily Session Document.
 
 ## Day 2
 
@@ -51,7 +51,6 @@ In this unit, coders will create the classic game of tic tac toe in their browse
 - [ ] Change the board to be 4x4 and end the game when there is a 4 in a row
 
 ## References/Tools
-* [Advanced Reference Table]()
-* [Script Tag](http://javascript.crockford.com/script.html)
+* [Advanced Reference Table](https://docs.google.com/document/d/1SElvLDvtVOoYZJyR5XbCQJWbSTxyChDiQkz7n3c63Go/preview)
 * [How Jquery Works](http://learn.jquery.com/about-jquery/how-jquery-works/)
 * [JQuery Events](http://api.jquery.com/category/events/)
