@@ -14,7 +14,7 @@ In this unit, coders will create the classic game of tic tac toe in their browse
 - [ ] Fork this repository to your github account and clone to a new workspace
 - [ ] Add, commit, and push your changes
 - [ ] Make your site live on gh-pages
-- [ ] Save and submit your website using the link on the Agenda.
+- [ ] Submit your website using the link on the Agenda
 
 ### JavaScript
 - [ ] Create a variable that keeps track of the current player and set it equal to either a string of "X" or "O"
