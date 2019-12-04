@@ -45,7 +45,7 @@ In this unit, coders will create the classic game of tic tac toe in their browse
 ## Project Extensions:
 - [ ] Add in your own css to personalize your project
 - [ ] Create a button that will reset the game back to the original (this requires clearing the Xs and Os, and putting the "move" buttons back)
-- [ ] Keep track of the score bewteen the two players: X wins, O wins, and draws
+- [ ] Keep track of the score between the two players: X wins, O wins, and draws
 - [ ] Change the 9 button functions to instead be one generic function on the button selector
 - [ ] Change the board to be 4x4 and end the game when there is a 4 in a row
 
