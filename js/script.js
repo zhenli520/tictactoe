@@ -1,3 +1,26 @@
+let player = "X";
+let totalTurns = 0;
+let game = false;
+
+function changePlayer(){
+    totalTurns = totalTurns + 1;
+    if (totalTurns % 2 == 0){
+        player = "O";
+    }
+    else {
+        player = "X";
+    }
+}
+
+
+function performLogic(buttonId,tileId){
+    changePlayer();
+    if (totalTurns == 9){
+        $("h1").text("It's a Draw!");
+    }
+    $(buttonId).remove();
+    $(tileId).text(player);
+}
 
 
 
@@ -40,4 +63,3 @@ $("#button8").click(function() {
 $("#button9").click(function() {
     performLogic("#button9","#tile9");
 });
-
